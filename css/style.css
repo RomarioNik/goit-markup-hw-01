@@ -1,13 +1,2 @@
-body {
-    background-color: #fff;
-    color: #000;
-}
 
-.test {
-    border: 1px solid blueviolet;
-    border-bottom: 7px;
-}
 
-div > p {
-    font-size: 24px;
-}
